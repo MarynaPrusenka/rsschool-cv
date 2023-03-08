@@ -1,6 +1,8 @@
 # Marina Prusenko
 ![avator](https://user-images.githubusercontent.com/118897114/223849928-e2927212-070c-4ec2-90b2-1420fb20bfa6.jpg)
 
+My aim is to become a JS developer. I am responsible, plodding, hard-working. I have worked as a teacher for 10 years. 
+
 ## Contacts:
 
 _Mobile number:_ +375445479710 
@@ -8,8 +10,6 @@ _Mobile number:_ +375445479710
 _Skype:_ rinata177 
 
 _Nickname in Discord:_ MARINA#2827
-
-My aim is to become a JS developer. I am responsible, plodding, hard-working. I have worked as a teacher for 10 years. 
 
 ## My skills:
 1. HTML  
