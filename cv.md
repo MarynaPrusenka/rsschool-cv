@@ -1,4 +1,5 @@
 # Marina Prusenko
+![avator](https://user-images.githubusercontent.com/118897114/223849928-e2927212-070c-4ec2-90b2-1420fb20bfa6.jpg)
 
 ## Contacts:
 
